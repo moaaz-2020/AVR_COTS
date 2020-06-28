@@ -41,7 +41,7 @@ volatile void (*pf)(void) = NULL ;
 /*    PRECONDITION :                            */
 /*                                              */
 /************************************************/
-
+//555
 Error_enuStatus   EXTI0_enuInit(u8 Copy_u8SenseMode)
 {
 	Error_enuStatus  Local_enuError = ES_NOK;
